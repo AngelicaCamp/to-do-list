@@ -24,7 +24,7 @@
 
 > Aplicação Web que permite o usuário adicionar, remover ou pesquisar uma tarefa. 
 
-<br><br>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -34,12 +34,13 @@
 
 - **JavaScript**
   
-  <br><br>
+  <br>
 
 ## 🔖 Page
 
 - Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/to-do-list/).
 
+<br>
 ---
 
 Feito com ♥ by Angélica C.
