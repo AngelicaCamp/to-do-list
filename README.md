@@ -24,7 +24,7 @@
 
 > Aplicação Web que permite o usuário adicionar, remover ou pesquisar uma tarefa. 
 
-
+<br><br>
 
 ## 🚀 Tecnologias
 
@@ -34,7 +34,7 @@
 
 - **JavaScript**
   
-  
+  <br><br>
 
 ## 🔖 Page
 
