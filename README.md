@@ -1,4 +1,4 @@
-<h1 align="center">To do List</h1>
+<h1 align="center">Lista de Tarefas</h1>
 
 <p align="center">
   <a href="#-app">Aplicação</a>   | 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="quiz.gif"> 
+    <img src="to-do-list.gif"> 
   </a>   
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 📝 Aplicação
 
-> Quiz com perguntas e respostas sobre conhecimentos gerais. 
+> Aplicação Web que permite o usuário adicionar, remover ou pesquisar uma tarefa. 
 
 
 
@@ -38,7 +38,7 @@
 
 ## 🔖 Page
 
-- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/quiz-app/).
+- Você pode visualizar o resultado final do projeto através [desse link](https://angelicacamp.github.io/to-do-list/).
 
 ---
 
